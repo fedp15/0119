@@ -1,0 +1,7 @@
+/changes
+**/cache
+**/upload
+/*_updated.php
+/config.php
+/nodejs/models/wo_langs.js
+/ffmpeg
